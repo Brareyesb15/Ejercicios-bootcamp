@@ -1,0 +1,6 @@
+let edad = prompt (¿cual es tu edad?
+VM115:1 Uncaught SyntaxError: Invalid or unexpected token
+const edad = prompt (cual es tu edad?)
+VM283:1 Uncaught SyntaxError: missing ) after argument list
+const edad = prompt ("¿cual es tu edad?")
+undefined
